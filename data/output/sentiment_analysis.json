@@ -1,0 +1,517 @@
+{
+  "interview_id": "ent_001",
+  "metadata": {
+    "date": "2026-01-09",
+    "participantes": [
+      "Interviewer",
+      "Interviewee",
+      "Interviewee",
+      "Interviewee",
+      "Interviewee"
+    ],
+    "duration_s": 146.21
+  },
+  "segments": [
+    {
+      "segment_id": 1,
+      "speaker": "Interviewer",
+      "start": 0.23,
+      "end": 0.72,
+      "text": "A",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 2,
+      "speaker": "Interviewer",
+      "start": 2.27,
+      "end": 5.33,
+      "text": "I work on Saturdays and in the school holidays.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 3,
+      "speaker": "Interviewer",
+      "start": 5.95,
+      "end": 9.13,
+      "text": "Saturdays are busy because that's when everyone goes shopping.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.55
+      }
+    },
+    {
+      "segment_id": 4,
+      "speaker": "Interviewer",
+      "start": 10.26,
+      "end": 14.32,
+      "text": "Our shop sells clothes and accessories for men, women and children.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 5,
+      "speaker": "Interviewer",
+      "start": 15.25,
+      "end": 17.06,
+      "text": "I work in the children's department.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 6,
+      "speaker": "Interviewer",
+      "start": 17.56,
+      "end": 20.6,
+      "text": "It can be crazy sometimes, but it's fun.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEGATIVE",
+        "score": 0.42
+      }
+    },
+    {
+      "segment_id": 7,
+      "speaker": "Interviewee",
+      "start": 23.47,
+      "end": 23.79,
+      "text": "B.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 8,
+      "speaker": "Interviewee",
+      "start": 25.29,
+      "end": 28.92,
+      "text": "I work during my summer holidays when I'm not at university.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 9,
+      "speaker": "Interviewee",
+      "start": 29.51,
+      "end": 35.06,
+      "text": "Oxford has thousands of tourists in the summer, so it's easy to find a job as a tour guide.",
+      "role": "answer",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 0.72
+      }
+    },
+    {
+      "segment_id": 10,
+      "speaker": "Interviewee",
+      "start": 35.82,
+      "end": 40.97,
+      "text": "I take tourists to visit the university colleges and then we go down to the river.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEGATIVE",
+        "score": 0.42
+      }
+    },
+    {
+      "segment_id": 11,
+      "speaker": "Interviewee",
+      "start": 41.85,
+      "end": 43.69,
+      "text": "We go along the river on a boat.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 12,
+      "speaker": "Interviewee",
+      "start": 44.24,
+      "end": 46.35,
+      "text": "The tourists love the boat trip.",
+      "role": "answer",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 0.75
+      }
+    },
+    {
+      "segment_id": 13,
+      "speaker": "Interviewee",
+      "start": 46.62,
+      "end": 49.9,
+      "text": "But last summer, Huang tourists fell in the river.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 14,
+      "speaker": "Interviewee",
+      "start": 50.57,
+      "end": 53.31,
+      "text": "I love meeting people from all over the world.",
+      "role": "answer",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 0.75
+      }
+    },
+    {
+      "segment_id": 16,
+      "speaker": "Interviewee",
+      "start": 56.29,
+      "end": 56.73,
+      "text": "C.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 17,
+      "speaker": "Interviewee",
+      "start": 58.22,
+      "end": 59.33,
+      "text": "I like my job.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 18,
+      "speaker": "Interviewee",
+      "start": 59.82,
+      "end": 62.87,
+      "text": "But lots of people don't like coming to see me because...",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 19,
+      "speaker": "Interviewee",
+      "start": 63.28,
+      "end": 64.88,
+      "text": "They hate dentists.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEGATIVE",
+        "score": 0.1
+      }
+    },
+    {
+      "segment_id": 20,
+      "speaker": "Interviewee",
+      "start": 65.69,
+      "end": 67.58,
+      "text": "Sometimes it's very hard work.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEGATIVE",
+        "score": 0.31
+      }
+    },
+    {
+      "segment_id": 21,
+      "speaker": "Interviewee",
+      "start": 68.19,
+      "end": 70.77,
+      "text": "But it's great to help people when they have a problem.",
+      "role": "answer",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 0.9
+      }
+    },
+    {
+      "segment_id": 22,
+      "speaker": "Interviewee",
+      "start": 71.61,
+      "end": 73.91,
+      "text": "It's so important to look after your teeth.",
+      "role": "answer",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 0.7
+      }
+    },
+    {
+      "segment_id": 23,
+      "speaker": "Interviewee",
+      "start": 76.59,
+      "end": 76.95,
+      "text": "D.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 24,
+      "speaker": "Interviewee",
+      "start": 78.58,
+      "end": 105.62,
+      "text": "My job is very difficult, but I like it because I love flying. I fly planes that take people to different places on holiday. Most of the time I fly in Europe to places like Spain, Greece and Italy. The most difficult thing about my job is when the weather is bad. Snow and thunderstorms are the worst. The best thing is visiting different places.",
+      "role": "answer",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 0.55
+      }
+    },
+    {
+      "segment_id": 26,
+      "speaker": "Interviewee",
+      "start": 108.5,
+      "end": 108.84,
+      "text": "E.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 27,
+      "speaker": "Interviewee",
+      "start": 110.17,
+      "end": 112.94,
+      "text": "I work in a hospital in the city centre.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 28,
+      "speaker": "Interviewee",
+      "start": 113.36,
+      "end": 115.03,
+      "text": "It's a very big hospital.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 29,
+      "speaker": "Interviewee",
+      "start": 115.51,
+      "end": 117.72,
+      "text": "I help the doctors with the patients.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 30,
+      "speaker": "Interviewee",
+      "start": 117.97,
+      "end": 121.38,
+      "text": "I give them their medicine and look after them when they feel ill.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEGATIVE",
+        "score": 0.25
+      }
+    },
+    {
+      "segment_id": 31,
+      "speaker": "Interviewee",
+      "start": 122.0,
+      "end": 122.9,
+      "text": "I love my job.",
+      "role": "answer",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 0.75
+      }
+    },
+    {
+      "segment_id": 32,
+      "speaker": "Interviewee",
+      "start": 123.25,
+      "end": 123.5,
+      "text": "But.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 33,
+      "speaker": "Interviewee",
+      "start": 123.69,
+      "end": 125.16,
+      "text": "I don't like the uniform.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 34,
+      "speaker": "Interviewee",
+      "start": 125.6,
+      "end": 127.96,
+      "text": "and sometimes I have to work at night.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 35,
+      "speaker": "Interviewee",
+      "start": 131.13,
+      "end": 134.46,
+      "text": "This recording was brought to you by the British Council.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 36,
+      "speaker": "Interviewee",
+      "start": 135.25,
+      "end": 137.04,
+      "text": "To find others like it...",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 37,
+      "speaker": "Interviewee",
+      "start": 137.09,
+      "end": 137.63,
+      "text": "Visit.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 38,
+      "speaker": "Interviewee",
+      "start": 137.93,
+      "end": 139.6,
+      "text": "www.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 39,
+      "speaker": "Interviewee",
+      "start": 140.18,
+      "end": 141.38,
+      "text": "British Council.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 40,
+      "speaker": "Interviewee",
+      "start": 141.66,
+      "end": 142.61,
+      "text": "dot org",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 41,
+      "speaker": "Interviewee",
+      "start": 143.3,
+      "end": 144.26,
+      "text": "forward slash",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    },
+    {
+      "segment_id": 42,
+      "speaker": "Interviewee",
+      "start": 144.63,
+      "end": 146.44,
+      "text": "Learn English Teens.",
+      "role": "answer",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0.5
+      }
+    }
+  ],
+  "report": {
+    "total_segments": 40,
+    "total_questions": 0,
+    "total_answers": 40,
+    "sentiment_distribution": {
+      "positive": {
+        "count": 7,
+        "percentage": 17.5
+      },
+      "negative": {
+        "count": 5,
+        "percentage": 12.5
+      },
+      "neutral": {
+        "count": 28,
+        "percentage": 70.0
+      }
+    },
+    "average_sentiment_score": 0.52,
+    "dominant_sentiment": "NEUTRAL"
+  }
+}
